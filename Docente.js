@@ -16,4 +16,3 @@ const novoDocente= new Docente('Juliana', 'juliana@uol.com', '2021/04/05');
 console.log(novoDocente);
 console.log(novoDocente.exibirInfos());
 console.log(novoDocente.aprovaEstudante('Juliana', 'JavaScript'));
-
