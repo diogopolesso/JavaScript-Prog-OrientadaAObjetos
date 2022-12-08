@@ -1,0 +1,21 @@
+{
+  "name": "javascript-programacaoorientadaaobjetos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopolesso/JavaScript-Prog-OrientadaAObjetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopolesso/JavaScript-Prog-OrientadaAObjetos/issues"
+  },
+  "homepage": "https://github.com/diogopolesso/JavaScript-Prog-OrientadaAObjetos#readme"
+}

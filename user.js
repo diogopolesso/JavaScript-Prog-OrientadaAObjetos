@@ -1,6 +1,6 @@
-// Construtor de Classe:
+// Construtor de Classe (Herança de Classe):
 
-class User {
+export default class User {
     constructor(nome, email, nascimento, role, ativo = true){
        this.nome = nome
        this.email = email
@@ -14,9 +14,12 @@ class User {
     }
 }
 
+/*
 const novoUser = new User('Juliana', 'juliana@uol.com', '2021/01/01');
 console.log(novoUser);
 console.log(novoUser.exibirInfos());
 
 // Testar se User esta sendo usado como Protótipo de novoUser:
 console.log(User.prototype.isPrototypeOf(novoUser))
+*/
+ 
