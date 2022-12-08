@@ -14,12 +14,10 @@ export default class User {
     }
 }
 
-/*
 const novoUser = new User('Juliana', 'juliana@uol.com', '2021/01/01');
 console.log(novoUser);
 console.log(novoUser.exibirInfos());
 
 // Testar se User esta sendo usado como Protótipo de novoUser:
 console.log(User.prototype.isPrototypeOf(novoUser))
-*/
  

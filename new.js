@@ -31,7 +31,7 @@ const user = {
         this.nome = nome
         this.email = email
     },
-    
+
     exibirInfos: function(nome){
         return this.nome
     }
@@ -41,5 +41,5 @@ const novoUser = Object.create(user);
 novoUser.init('Juliana', 'juliana@uol.com');
 console.log(novoUser.exibirInfos());
 
-// Testar se User esta sendo usado como Protótipo de novoUser:
+//Testar se User esta sendo usado como Protótipo de novoUser:
 console.log(user.isPrototypeOf(novoUser));
